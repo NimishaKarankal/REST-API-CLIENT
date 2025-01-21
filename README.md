@@ -87,3 +87,7 @@ The **WeatherApp** showcases best practices in Java programming for real-world a
 
 #### **Conclusion**
 The **WeatherApp** is a simple yet powerful application that bridges the gap between Java programming fundamentals and real-world API integration. By combining user input, dynamic API calls, JSON parsing, and error handling, it provides a complete solution for fetching and displaying live weather data. The code is modular, scalable, and serves as an excellent example of practical Java development.
+
+
+# Output:
+![image](https://github.com/user-attachments/assets/4faa417a-4b8a-4628-a4fa-b88929d82e61)
