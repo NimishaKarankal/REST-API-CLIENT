@@ -1,4 +1,4 @@
-# REST-API-ClLIENT
+# REST-API-CLIENT
 
 # Project Details
 
